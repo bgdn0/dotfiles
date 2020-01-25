@@ -1,7 +1,11 @@
 #!/usr/bin/env bash
 
-source 01_xcode.sh
-source 02_brew.sh
-source 03_cask_install.sh
-source 04_brew_install.sh
-source 05_fonts_install.sh
+source scripts/utils.sh
+
+#source scripts/01_xcode.sh
+#source scripts/02_brew.sh
+#source scripts/03_cask_install.sh
+#source scripts/04_brew_install.sh
+#source scripts/05_fonts_install.sh
+
+print_yellow "\n Complete!"

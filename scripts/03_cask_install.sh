@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-source utils.sh
+print_header "Cask Install"
 
 formulaes=(
     "Windows" # Windows
@@ -58,7 +58,6 @@ formulaes=(
     "Tools" # Tools
     "appcleaner:AppCleaner"
     "karabiner-elements:Karabiner Elements"
-    "radare2:Reverse engineering framework"
     "sourcetree:Atlassian SourceTree"
     "the-unarchiver:The Unarchiver"
     "quicklook-json:quick look JSON"

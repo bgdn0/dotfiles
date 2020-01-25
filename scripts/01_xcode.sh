@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-source utils.sh
+print_header "Xcode"
 
 are_xcode_clt_installed() {
     xcode-select -p &> /dev/null

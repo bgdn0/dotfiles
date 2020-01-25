@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-source utils.sh
+print_header "Homebrew"
 
 install_homebrew() {
     if [[ $(command -v brew) == "" ]]; then 

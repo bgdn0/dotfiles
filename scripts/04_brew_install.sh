@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-source utils.sh
+print_header "Brew Install"
 
 formulaes=(
     "Node JS" # Node JS
@@ -67,6 +67,7 @@ formulaes=(
     "joplin:Joplin"
     "mackup:mackup"
     "navi:navi"
+    "radare2:Reverse engineering framework"
     "trash:trash"
     "Video" # Video
     "ffmpeg:FFmpeg"
