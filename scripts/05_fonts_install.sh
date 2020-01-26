@@ -5,17 +5,11 @@ print_title "Installing Fonts"
 execute "brew tap homebrew/cask-fonts" "tap cask-fonts"
 
 fonts=(
-    "font-codenewroman-nerd-font-mono"
     "font-codenewroman-nerd-font"
-    "font-fantasquesansmono-nerd-font-mono"
     "font-fantasquesansmono-nerd-font"
-    "font-hack-nerd-font-mono"
     "font-hack-nerd-font"
-    "font-inconsolatalgc-nerd-font-mono"
     "font-inconsolatalgc-nerd-font"
-    "font-meslo-nerd-font-mono"
     "font-meslo-nerd-font"
-    "font-mononoki-nerd-font-mono"
     "font-mononoki-nerd-font"
     )
 
