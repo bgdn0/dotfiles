@@ -7,6 +7,7 @@ execute "brew tap homebrew/cask-fonts" "tap cask-fonts"
 fonts=(
     "font-codenewroman-nerd-font"
     "font-fantasquesansmono-nerd-font"
+    "font-firacode-nerd-font"
     "font-hack-nerd-font"
     "font-inconsolatalgc-nerd-font"
     "font-meslo-nerd-font"

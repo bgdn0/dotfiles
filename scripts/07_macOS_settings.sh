@@ -130,6 +130,9 @@ execute 'defaults write NSGlobalDomain AppleLanguages -array "en" "en-UA" "ru" "
 execute 'defaults write NSGlobalDomain AppleLocale -string "en_US"' \
         "Locale"
 
+execute 'defaults write com.apple.menuextra.clock DateFormat -string "EEE H:mm"' \
+        "Time format in menu"
+
 execute "defaults write NSGlobalDomain NSAutomaticSpellingCorrectionEnabled -bool false" \
             "Disable auto-correct"
 

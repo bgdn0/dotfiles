@@ -107,3 +107,51 @@ do
         print_title $formula
     fi
 done
+
+#= Development
+# bcal
+# rebound
+# bitwise
+
+#= Docker
+# dockly
+
+#= Tools
+# terjira
+# gcalcli
+# s //search in web
+# carbon-now-cli
+# awesome-finder
+
+# open-pip-cli
+
+# localtunnel / ngrok
+# speedtest-net
+
+# has
+# yank
+
+# howdoi
+# how2
+# tldr
+
+# battery-level-cli
+
+# trash-cli
+# node-rename-cli
+# tre
+
+# xcbuild
+# xcpretty
+
+# SourceKitten
+# SourceKittenDaemon
+
+# SpaceVim
+# taskjuggler
+
+# autojump
+# fz?
+# z.lua?
+
+
