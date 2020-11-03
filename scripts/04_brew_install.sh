@@ -6,6 +6,7 @@ formulaes=(
     "Node JS" # Node JS
     "node:Node.js"
     "File Structure Navigation" # File Structure Navigation
+    "broot:broot"
     "lsd:lsd"
     "ranger:ranger"
     "tree:tree"
@@ -42,7 +43,14 @@ formulaes=(
     "bat:bat"
     "macvim:MacVim"
     "neovim:NeoVim"
+    "tldr:tldr"
     "vim:Vim"
+    "Python" # Python
+    "pipenv:pipenv"
+    "Tasks" # Tasks
+    "task:Taskwarrior"
+    "tasksh:Tasksh"
+    "timewarrior:Timewarrior"
     "Graphics" # Graphics
     "gifify:gifify"
     "gifsicle:Gifsicle"
@@ -61,6 +69,7 @@ formulaes=(
     "cheat:cheat"
     "cloc:cloc"
     "gcal:gCal"
+    "gotop:gotop"
     "hr:hr"
     "htop:htop"
     "insect:insect"
@@ -68,6 +77,8 @@ formulaes=(
     "mackup:mackup"
     "navi:navi"
     "radare2:Reverse engineering framework"
+    "screenfetch:screenfetch"
+    "shellcheck:shellcheck"
     "trash:trash"
     "Video" # Video
     "ffmpeg:FFmpeg"

@@ -31,6 +31,7 @@ formulaes=(
     "graphql-playground:GraphQL Playground"
     "insomnia:Insomnia"
     "postman:Postman"
+    "proxyman:Proxyman"
     "Documentation/Drawing" # Documentation/Drawing
     "drawio:draw.io Desktop"
     "staruml:StarUML"
@@ -47,6 +48,7 @@ formulaes=(
     "Documents/Books" # Documents/Books
     "kindle:Kindle for Mac"
     "libreoffice:LibreOffice"
+    "ONLYOFFICE:onlyoffice"
     "Video" # Video
     "vlc:VLC media player"
     "Connectivity" # Connectivity
