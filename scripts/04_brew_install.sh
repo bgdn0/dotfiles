@@ -3,6 +3,7 @@
 print_header "Brew Install"
 
 formulaes=(
+    "Mac App Store CLI:mas"
     "Node JS" # Node JS
     "node:Node.js"
     "File Structure Navigation" # File Structure Navigation
@@ -84,7 +85,7 @@ formulaes=(
     "ffmpeg:FFmpeg"
     "mps-youtube:mps-youtube"
     "youtube-dl:youtube-dl"
-    "Zsh" # Zsh
+#    "Zsh" # Zsh
     "starship:starship"
     "zsh-autosuggestions:zsh-autosuggestions"
     "zsh-completions:zsh-completions"
@@ -104,7 +105,6 @@ formulaes=(
     #"ios-sim:ios-sim"
     "swiftformat:swiftformat"
     "swiftlint:SwiftLint"
-    "xctool:xctool"
     )
 
 for formula in "${formulaes[@]}"
@@ -115,7 +115,7 @@ do
         title=${formula#*:}
         execute "brew install ${command}" "${title}"
     else
-        print_title $formula
+        print_title "$formula"
     fi
 done
 

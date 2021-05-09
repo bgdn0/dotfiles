@@ -143,6 +143,10 @@ execute "defaults write com.apple.screensaver askForPassword -int 1 && \
 execute "defaults write com.apple.screencapture show-thumbnail -bool FALSE" \
             "Disable Floating Screenshot Thumbnail"
 
+#execute "mkdir ~/Documents/Screenshots && \
+#        defaults write com.apple.screencapture ~/Documents/Screenshots" \
+#        "Save screenshots to ~/Documents/Screenshots"
+
 
 #==============================
 # Transmission

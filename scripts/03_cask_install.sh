@@ -11,8 +11,9 @@ formulaes=(
     "alacritty:Alacritty"
     "iterm2:iTerm2"
     "Browsers" # Browsers
-    "firefox:Mozilla Firefox"
+#    "firefox:Mozilla Firefox"
     "google-chrome:Google Chrome"
+    "brave-browser:Brave"
     "tor-browser:Tor Browser"
     "Editors" # Editors
     "hex-fiend:Hex Fiend"
@@ -27,9 +28,9 @@ formulaes=(
     "Networking" # Networking
     "altair-graphql-client:Altair GraphQL Client"
     "charles:Charles"
-    "graphiql:GraphiQL"
-    "graphql-playground:GraphQL Playground"
-    "insomnia:Insomnia"
+#    "graphiql:GraphiQL"
+#    "graphql-playground:GraphQL Playground"
+#    "insomnia:Insomnia"
     "postman:Postman"
     "proxyman:Proxyman"
     "Documentation/Drawing" # Documentation/Drawing
@@ -56,7 +57,10 @@ formulaes=(
     "tunnelblick:Tunnelblick"
     "Notes" # Notes
     "joplin:Joplin"
+    "notion:Notion"
+    "obsidian:Obsidian"
     "raindropio:Raindrop.io"
+    "zotero:Zotero"
     "Tools" # Tools
     "appcleaner:AppCleaner"
     "karabiner-elements:Karabiner Elements"
